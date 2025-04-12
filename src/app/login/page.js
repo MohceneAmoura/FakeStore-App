@@ -46,6 +46,7 @@ export default function LoginPage() {
               value={credentials.username}
               onChange={handleChange}
               className="form-input"
+              placeholder="Ex: Mohcene Amoura"
               required
             />
           </div>
